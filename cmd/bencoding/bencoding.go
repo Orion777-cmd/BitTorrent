@@ -1,9 +1,9 @@
-package bencode
+package bencoding
 
 import (
 	"github.com/jackpal/bencode-go"
 	"io"
-	
+
 )
 
 type bencodeInfo struct {

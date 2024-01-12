@@ -1,7 +1,7 @@
 package torrent 
 
 import (
-	"github.com/orion777-cmd/BitTorrent/cmd/bencoding"
+	"github.com/orion777-cmd/BitTorrent/cmd/bencoding/bencoding"
 )
 
 type TorrentFile struct {
